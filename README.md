@@ -3,6 +3,7 @@ Kittyutils is a project for recreating coreutils but making them into the Unlice
 
 # Current programs
 * [Conkitenate](https://github.com/kittyteggie/kittyutils/tree/main/kit) (Kit): Inspired by the Unix's cat command
+* [Kittylist](https://github.com/kittyteggie/kittyutils/tree/main/kls) (Kls): Inspired by the Unix's ls command
 * [Meow](https://github.com/kittyteggie/kittyutils/tree/main/meow): Inspired by the Unix's echo command
 
 # Compiling
